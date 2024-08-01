@@ -2,7 +2,7 @@
 
 # Project: SAVANT Eyewear Shop
 
-[**Live version** of the site can be found here](https://savant-eyewear.vercel.app//)
+[**Live version** of the site can be found here](https://eye-xi.vercel.app/)
 
 SAVANT Eyewear is a mock-up of an e-commerce website that sells eyewear products. The website offers a range of eyewear products, including prescription glasses and trendy sunglasses & frames. This project was created as a practice on using React Router and testing UI elements using the React Testing Library and Vitest.
 
@@ -37,7 +37,7 @@ SAVANT Eyewear is a mock-up of an e-commerce website that sells eyewear products
 In order to setup and work on this project on your own, you will need to:
 
 1. Clone this project:  
-   `git clone https://github.com/renchester/eyewear-store.git`
+   `git clone https://github.com/Annihilator544/eye.git`
 
 2. Once you have cloned this project, you can install the required dependencies by using:  
    `npm install`
@@ -52,7 +52,7 @@ In order to setup and work on this project on your own, you will need to:
 
 This project is for personal use only. I do not own any of the rights for the assets used in this project.
 
-The images used are from Unsplash and the credits for the creators of the photos can be found [here](https://github.com/renchester/eyewear-shop/blob/main/credits.md).
+The images used are from Unsplash and the credits for the creators of the photos can be found [here](https://github.com/Annihilator544/eye/blob/main/credits.md).
 
 Product data and images were retrieved from [Ronnie & Joe](https://ronnieandjoe.com/).
 
